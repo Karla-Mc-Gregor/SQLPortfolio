@@ -1,2 +1,3 @@
-# SQLPortfolio
-This is my SQL Portfolio
+# Karla Mc Gregor's SQLPortfolio
+##Welcome to my SQL portfolio! This code repository contains examples of SQL I've written. Feel free to take a look and reach out via email if you have any questions:
+lorenamcgregor12@gmail.com
