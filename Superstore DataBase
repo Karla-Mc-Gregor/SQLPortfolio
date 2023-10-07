@@ -50,10 +50,10 @@ SELECT
 FROM superstore
 WHERE category = 'Kitchen Supplies';
 
-SELECT 
+# Show all the items under the Furnishing category with their corresponding prices in ascending mode.
+SELECT item_name, price
 FROM superstore
-GROUP BY Category= 'furnishings';
-
-
+WHERE category = 'Furnishings'
+ORDER BY price asc;
 
 
